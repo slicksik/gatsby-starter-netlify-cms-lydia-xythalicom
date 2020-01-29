@@ -27,7 +27,10 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                      <p>{mainpitch.description}</p>
+                      <p>{mainpitch.description}</p>   
+                  </div>
+                  <div className="tile">
+                      <p>{description}</p>
                   </div>
                 </div>
                 <div className="columns">
@@ -35,7 +38,7 @@ export const IndexPageTemplate = ({
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
                     </h3>
-                    <p>{description}</p>
+                    
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
