@@ -6,7 +6,7 @@ heading: Latest Writing
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Lydia Xythali
-  description: >-
+  description: >+
     I was born in Athens, Greece in 1988. I have a love for post-punk, Seinfeld,
     spicy Bloody Marys
 
@@ -30,19 +30,11 @@ mainpitch:
 
     often, the good kind or otherwise.
 
-
-    In March 2019, my personal essay The Kobayashi Maru For Queers was published
-    in NASTY!
-
-    VOL. 2. Eight months later, my first fiction story Parasiteland was included
-    in BLEAK FRIDAY. I
-
-    am currently working on a novella, but don’t quote me on that.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  In March 2019, my personal essay The Kobayashi Maru For Queers was published
+  in NASTY! VOL. 2. Eight months later, my first fiction story Parasiteland was
+  included in BLEAK FRIDAY. I am currently working on a novella, but don’t quote
+  me on that.
 intro:
   blurbs:
     - image: /img/coffee.png
