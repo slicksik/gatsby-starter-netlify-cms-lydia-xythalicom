@@ -1,16 +1,43 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+image: /img/flavor_wheel.jpg
+heading: Latest Writing
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Lydia Xythali
+  description: >-
+    I was born in Athens, Greece in 1988. I have a love for post-punk, Seinfeld,
+    spicy Bloody Marys
+
+    and extremely hot peppers.
+
+
+    For the past 12 years, I’ve worked as an EFL teacher and content writer for
+    Cyclops Web.
+
+    I wrote my first storybook at 6 - complete with illustrations! It was about
+    a benevolent community
+
+    of snakes who break into people’s homes en masse to terrorize them, so as to
+    put an end to
+
+    being skinned for shoes and bags. I still stand by that sentiment today. I
+    still write all the time.
+
+    It’s the only thing that makes sense. I write harder when I’m in trouble.
+    And I’m in trouble quite
+
+    often, the good kind or otherwise.
+
+
+    In March 2019, my personal essay The Kobayashi Maru For Queers was published
+    in NASTY!
+
+    VOL. 2. Eight months later, my first fiction story Parasiteland was included
+    in BLEAK FRIDAY. I
+
+    am currently working on a novella, but don’t quote me on that.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +95,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
