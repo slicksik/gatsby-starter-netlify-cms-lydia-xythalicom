@@ -19,7 +19,7 @@ I still stand by that sentiment today. I still write all the time. It’s the on
 
 <!--StartFragment-->
 
-> In March 2019, my personal essay The Kobayashi Maru For Queers was published in NASTY! VOL. 2. Eight months later, my first fiction story Parasiteland was included in BLEAK FRIDAY. I am currently working on a novella, but don’t quote me on that.
+In March 2019, my personal essay The Kobayashi Maru For Queers was published in NASTY! VOL. 2. Eight months later, my first fiction story Parasiteland was included in BLEAK FRIDAY. I am currently working on a novella, but don’t quote me on that.
 
 
 
