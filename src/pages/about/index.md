@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About our values
+title: The story so far..
 ---
 I was born in Athens, Greece in 1988. I have a love for post-punk, Seinfeld, spicy Bloody Marys and extremely hot peppers.
 
